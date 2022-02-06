@@ -1,0 +1,1 @@
+docker build -t wordpress-5.9 .
